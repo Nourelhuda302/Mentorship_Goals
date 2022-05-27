@@ -91,4 +91,3 @@ Mentorship Goals Needed To Finish
 - [ ] BEM
 - [ ] Unit Testing
 - [ ] Debugging
-- [ ] 
